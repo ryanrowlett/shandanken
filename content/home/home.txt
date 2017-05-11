@@ -1,0 +1,49 @@
+Title: Home
+
+----
+
+Intro: The Shandaken Project supports cultural producers, primarily those who work in an interdisciplinary capacity or affect change in their respective disciplines, with a process-focused residency program on the grounds of Storm King Art Center. This unique collaboration is called Shandaken Project at Storm King. Administrated by the Shandaken Project and taking place on the stunning grounds of Storm King, this program offers residents the best that both organizations can offer.
+
+----
+
+Text: Here is some text that will go into a modal window on page load.
+
+----
+
+Coverimage: stormking.jpg
+
+----
+
+Image: sticker400x400.png
+
+----
+
+Label: This is a cool sticker!
+
+----
+
+Heading: Heres the title I hope
+
+----
+
+Button: Learn More
+
+----
+
+Checkbox: 1
+
+----
+
+Name: Heres a name
+
+----
+
+Modal: 0
+
+----
+
+Url: http://ryanrowlett.com
+
+----
+
+Destination: http://ryanrowlett.com
